@@ -2,11 +2,9 @@
 
 ![sql.png](sql.png)
 
-
-![WorkforceDBERD.png](WorkforceDBERD.png)
-
 ####  Analysis
 
+For queries, please view "Queries.sql" file above, while also taking note of my tables and ERD.
 
 1. List the following details of each employee: employee number, last name, first name, gender, and salary.
 
@@ -24,4 +22,3 @@
 
 8. In descending order, list the frequency count of employee last names, i.e., how many employees share each last name.
 
-![queries.sql](queries.sql)
