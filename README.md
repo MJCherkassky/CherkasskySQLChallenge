@@ -2,9 +2,9 @@
 
 ![sql.png](sql.png)
 
-####  Analysis
+For my queries, please view "Queries.sql" file above, while also taking note of my tables and ERD.
 
-For queries, please view "Queries.sql" file above, while also taking note of my tables and ERD.
+####  Analysis
 
 1. List the following details of each employee: employee number, last name, first name, gender, and salary.
 
